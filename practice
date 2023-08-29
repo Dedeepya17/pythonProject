@@ -1,4 +1,0 @@
-from selenium import webdriver
-driver=webdriver.Chrome()
-driver.get("https://www.testim.io/blog/how-to-implement-record-and-playback-in-selenium/")
-driver.find_element(By
